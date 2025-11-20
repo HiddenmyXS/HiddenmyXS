@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on [Catalyst - Discord Bot](https://github.com/HiddenmyXS/Catalyst-Bot)
 
-- 🌱 I’m currently learning **Java, C and Lua**
+- 📲 My Goals are become Android App Developer and GDE Experts
+
+- 🌱 I’m currently learning **Java, Flutter, C, TypeScript and Lua**
 
 - 👯 I’m looking to collaborate on [Eco Fashion World - A Fashionable Online Shop](https://github.com/HiddenmyXS/Eco-Fashion-World)
 
